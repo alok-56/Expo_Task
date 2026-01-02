@@ -15,6 +15,7 @@ Notifications.setNotificationHandler({
     shouldSetBadge: false,
   }),
 });
+https://www.upload-apk.com/sQIG5bm15Sezves
 
 export default function App() {
   const [notifications, setNotifications] = useState([]);
